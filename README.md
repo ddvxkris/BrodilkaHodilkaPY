@@ -1,2 +1,2 @@
 # BrodilkaHodilkaPY
-simple python console game
+Simple console game in python
